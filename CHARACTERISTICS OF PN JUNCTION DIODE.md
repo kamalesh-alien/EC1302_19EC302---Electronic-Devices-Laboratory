@@ -16,11 +16,22 @@
 A diode is a PN junction formed by a layer of P type and layer of N type Semiconductors. Diode does not conduct. But there will be a leakage current due to minority carrier. Once formed the free electrons in the N region diffuse across the junction and combine with holes in P region and so a depletion Layer is developed. The depletion layer consists of ions, which acts like a barrier for diffusion of charged beyond a certain limit. The difference of potential across the depletion layer is called the barrier potential. At 2.5degree the barrier potential is approximately equal 0.7v for silicon diode and 0.3v for germanium diode. When the junction is forward bias, the majority carrier acquired sufficient energy to overcome the barrier and the diode conducts. When the  junction  is  reverse-biased  the  depletion  layer  widens  and  the  barrier  potential increases.
 
 ## CIRCUIT DIAGRAM: 
+
+![WhatsApp Image 2025-12-07 at 15 39 49_ad9a37e9](https://github.com/user-attachments/assets/ab673cb6-0e9e-4dbb-a415-ad91f23833ab)
+
 ## FORWARD BIAS:
+
+![WhatsApp Image 2025-12-07 at 15 40 04_75631441](https://github.com/user-attachments/assets/8b15a7fc-6093-462f-bf11-18da46d9867b)
+
 
 ## REVERSE BIAS:
 
+![WhatsApp Image 2025-12-07 at 15 40 04_5c38c012](https://github.com/user-attachments/assets/13f20aed-b18b-441c-862b-7eb7e9701c6d)
+
+
 ## MODEL GRAPH:
+![WhatsApp Image 2025-12-07 at 15 40 05_dd39cf91](https://github.com/user-attachments/assets/b4f101d6-af84-4705-bf20-99f58b209a35)
+
 
 ## PROCEDURE:  
 ## FORWARD BIAS 
@@ -48,10 +59,16 @@ A diode is a PN junction formed by a layer of P type and layer of N type Semicon
 **Reverse Resistance**  **R<sub>R</sub> = ΔV<sub>R</sub> / ΔI<sub>R</sub> (Ω)** 
 
 ## TABULATION:
+![WhatsApp Image 2025-12-07 at 15 39 50_ece82cab](https://github.com/user-attachments/assets/16ce67c6-06a9-41d0-822b-8f7df123a175)
+
 
 ## CALCULATIONS:
+![WhatsApp Image 2025-12-07 at 15 39 50_3e717a91](https://github.com/user-attachments/assets/11bff416-d3a0-436f-8897-c6adbe5ffd6a)
+
 
 ## GRAPH:
+![WhatsApp Image 2025-12-07 at 15 39 50_137e4cab](https://github.com/user-attachments/assets/ba4e05e4-a6a5-4e77-82a7-8bcdbf6fcb0c)
+
 
  ## RESULTS:
  1. Forward resistance of PN diode     = --------------------
