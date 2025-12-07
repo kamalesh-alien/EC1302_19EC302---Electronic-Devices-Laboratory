@@ -17,20 +17,11 @@ A diode is a PN junction formed by a layer of P type and layer of N type Semicon
 
 ## CIRCUIT DIAGRAM: 
 
-![WhatsApp Image 2025-12-07 at 15 39 49_ad9a37e9](https://github.com/user-attachments/assets/ab673cb6-0e9e-4dbb-a415-ad91f23833ab)
-
+![WhatsApp Image 2025-12-07 at 15 39 49_9c9fc033](https://github.com/user-attachments/assets/26867fa8-870d-4d6a-8007-80066cd37274)
 ## FORWARD BIAS:
-
-![WhatsApp Image 2025-12-07 at 15 40 04_75631441](https://github.com/user-attachments/assets/8b15a7fc-6093-462f-bf11-18da46d9867b)
-
-
 ## REVERSE BIAS:
-
-![WhatsApp Image 2025-12-07 at 15 40 04_5c38c012](https://github.com/user-attachments/assets/13f20aed-b18b-441c-862b-7eb7e9701c6d)
-
-
 ## MODEL GRAPH:
-![WhatsApp Image 2025-12-07 at 15 40 05_dd39cf91](https://github.com/user-attachments/assets/b4f101d6-af84-4705-bf20-99f58b209a35)
+
 
 
 ## PROCEDURE:  
@@ -59,15 +50,14 @@ A diode is a PN junction formed by a layer of P type and layer of N type Semicon
 **Reverse Resistance**  **R<sub>R</sub> = ΔV<sub>R</sub> / ΔI<sub>R</sub> (Ω)** 
 
 ## TABULATION:
-![WhatsApp Image 2025-12-07 at 15 39 50_ece82cab](https://github.com/user-attachments/assets/16ce67c6-06a9-41d0-822b-8f7df123a175)
-
+![WhatsApp Image 2025-12-07 at 15 39 50_34257ca5](https://github.com/user-attachments/assets/5147a43c-29e5-4517-9677-033b23319d8b)
 
 ## CALCULATIONS:
-![WhatsApp Image 2025-12-07 at 15 39 50_3e717a91](https://github.com/user-attachments/assets/11bff416-d3a0-436f-8897-c6adbe5ffd6a)
-
+![WhatsApp Image 2025-12-07 at 15 39 50_dc24844d](https://github.com/user-attachments/assets/4bc3408f-a1f7-4b8d-8d87-29b5bb6d5802)
 
 ## GRAPH:
-![WhatsApp Image 2025-12-07 at 15 39 50_137e4cab](https://github.com/user-attachments/assets/ba4e05e4-a6a5-4e77-82a7-8bcdbf6fcb0c)
+![WhatsApp Image 2025-12-07 at 15 39 50_3c6a66bf](https://github.com/user-attachments/assets/76e86a1a-d69c-45ca-a6c2-dd2cb4e17465)
+
 
 
  ## RESULTS:
